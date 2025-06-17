@@ -1,1 +1,1 @@
-# yt-thumbnail-main
+playboard-discovery
